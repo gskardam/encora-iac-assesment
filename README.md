@@ -1,3 +1,2 @@
 # encora-iac
-Encora Terraform Code
-Terraform code for Tomcat Webpage using CodePipeline
+Encora Terraform Code for Tomcat Webpage using CodePipeline
